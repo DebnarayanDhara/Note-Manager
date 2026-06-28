@@ -1,0 +1,54 @@
+What is the Dark Web?
+
+The Dark Web is a part of the internet that is not indexed by
+traditional search engines. It is accessible only through
+specialized software such as the Tor Browser.
+
+Internet Layers
+
+- Surface Web
+- Deep Web
+- Dark Web
+
+Surface Web
+- Public websites
+- Search engine indexed
+- Examples: News websites, blogs, online stores
+
+Deep Web
+- Not indexed by search engines
+- Examples: Email inboxes, banking portals, private databases
+
+Dark Web
+- Requires special software to access
+- Provides anonymity for users and websites
+
+Legitimate Uses
+
+- Privacy protection
+- Journalism
+- Secure communication
+- Research
+- Bypassing censorship in some regions
+
+Risks
+
+- Scams
+- Malware
+- Phishing
+- Fraud
+- Illegal marketplaces
+
+Safety Tips
+
+- Never download unknown files.
+- Never share personal information.
+- Avoid suspicious websites.
+- Keep your operating system updated.
+- Use strong cybersecurity practices.
+
+Interesting Facts
+
+- The Dark Web is only a very small part of the internet.
+- Most internet content belongs to the Deep Web.
+- Not everything on the Dark Web is illegal, but caution is essential.

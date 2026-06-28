@@ -1,0 +1,72 @@
+What is Artificial Intelligence?
+
+Artificial Intelligence (AI) is the simulation of human intelligence
+by computers and machines. AI enables systems to learn, reason,
+solve problems, and make decisions.
+
+Types of AI
+
+- Narrow AI
+- General AI (AGI)
+- Super AI (Theoretical)
+
+Applications of AI
+
+- Healthcare
+- Education
+- Agriculture
+- Robotics
+- Cybersecurity
+- Finance
+- Transportation
+
+Popular AI Technologies
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
+- Robotics
+
+Popular AI Tools
+
+- ChatGPT
+- GitHub Copilot
+- Google Gemini
+- Microsoft Copilot
+
+Programming Languages for AI
+
+- Python
+- R
+- Java
+- C++
+
+Python Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- TensorFlow
+- PyTorch
+- Scikit-learn
+
+My AI Learning Roadmap
+
+1. Python Programming
+2. Data Structures & Algorithms
+3. Object-Oriented Programming
+4. File Handling
+5. Tkinter GUI
+6. SQL & SQLite
+7. Machine Learning
+8. Deep Learning
+9. AI Projects
+
+Future Goals
+
+- Build AI Applications
+- Develop AI Robots
+- Create AI Gadgets
+- Learn Machine Learning
+- Explore Deep Learning

@@ -1,0 +1,82 @@
+==============================
+        PYTHON NOTES
+==============================
+
+Python Basics
+
+Variables
+- Store data in memory.
+
+Data Types
+- int
+- float
+- str
+- bool
+- list
+- tuple
+- dict
+- set
+
+Control Flow
+- if
+- elif
+- else
+
+Loops
+- for
+- while
+
+Functions
+- Reusable blocks of code
+- Parameters
+- Return values
+
+Exception Handling
+- try
+- except
+- finally
+
+File Handling
+- open()
+- read()
+- write()
+- append()
+
+Useful Built-in Functions
+- len()
+- input()
+- print()
+- range()
+- enumerate()
+- sum()
+- max()
+- min()
+
+OS Module
+- os.listdir()
+- os.mkdir()
+- os.remove()
+- os.rename()
+
+Today's Learning
+- Functions
+- Dictionaries
+- File Handling
+- Exception Handling
+- Command Line Projects
+
+Projects Completed
+- Scientific Calculator
+- To-Do List
+- Library Management System
+- Note Manager
+
+Next Topics
+- Object-Oriented Programming (OOP)
+- Tkinter GUI
+- SQLite Database
+- API Integration
+
+==============================
+End of Notes
+==============================

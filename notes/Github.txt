@@ -1,0 +1,61 @@
+What is GitHub?
+
+GitHub is a platform used to host, manage, and collaborate on Git repositories.
+
+Common Git Commands
+
+Initialize Repository
+git init
+
+Check Repository Status
+git status
+
+Stage All Files
+git add .
+
+Stage Specific File
+git add filename.py
+
+Create Commit
+git commit -m "Initial commit"
+
+Rename Branch
+git branch -M main
+
+Connect Remote Repository
+git remote add origin <repository-url>
+
+Push Code
+git push -u origin main
+
+Pull Latest Changes
+git pull origin main
+
+Clone Repository
+git clone <repository-url>
+
+Useful Files
+
+README.md
+- Project documentation
+
+.gitignore
+- Ignore unnecessary files
+
+LICENSE
+- Project license
+
+Good Practices
+
+- Write meaningful commit messages.
+- Keep the README updated.
+- Use a .gitignore file.
+- Commit changes regularly.
+- Organize project files properly.
+
+Projects on My GitHub
+
+- Scientific Calculator
+- To-Do List
+- Library Management System
+- Note Manager

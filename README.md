@@ -74,16 +74,6 @@ Note Created Successfully!
 * AI.txt
 * DarkWeb.txt
 
-## Future Improvements
-
-* Markdown (.md) Support
-* Rich Text Formatting
-* Tags and Categories
-* Favorite Notes
-* Password Protected Notes
-* GUI Version Using Tkinter
-* SQLite Database Support
-
 ## Author
 
 Debnarayan Dhara
